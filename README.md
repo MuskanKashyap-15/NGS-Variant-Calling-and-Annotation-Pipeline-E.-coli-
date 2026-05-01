@@ -208,8 +208,4 @@ This project successfully demonstrates a **real-world bioinformatics pipeline**,
 **Muskan Kashyap**
 MSC Biotechnology
 
----
-
-## 💼 Interview Explanation
-
 > “In this project, I performed end-to-end NGS data analysis including quality control, trimming, alignment, variant calling, and annotation. I identified a SNP (G→T) in the yjjI gene, which resulted in a missense mutation (Leu133Ile), potentially affecting protein function.”
