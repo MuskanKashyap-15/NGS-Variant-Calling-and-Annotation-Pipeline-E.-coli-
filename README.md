@@ -206,8 +206,7 @@ This project successfully demonstrates a **real-world bioinformatics pipeline**,
 ## 👩‍🔬 Author
 
 **Muskan Kashyap**
-Founder — Biotechshalaa
-Bioinformatics & Computational Biology
+MSC Biotechnology
 
 ---
 
